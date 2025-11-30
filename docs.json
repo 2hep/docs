@@ -17,7 +17,7 @@
             "group": "Security Setup",
             "pages": [
               "security/antinuke",
-              "essentials/navigation"
+              "security/antiraid"
             ]
           }
         ]
