@@ -4,8 +4,8 @@
   "name": "bender",
   "colors": {
     "primary": "#ffffff",
-    "light": "#95b6bd",
-    "dark": "#658a95"
+    "light": "#ffffff",
+    "dark": "#ffffff"
   },
   "favicon": "favicon.png",
   "navigation": {
