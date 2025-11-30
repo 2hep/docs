@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "bender",
   "colors": {
-    "primary": "#658a95",
+    "primary": "#000000",
     "light": "#ffffff",
-    "dark": "#658a95"
+    "dark": "#000000"
   },
   "favicon": "favicon.png",
   "navigation": {
